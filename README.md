@@ -9,22 +9,15 @@
 
 A lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 
-For complete info on *How To Contribute* please visit the [wiki](https://bitbucket.org/EVEMonDevTeam/evemon/wiki) section
+For complete info on *How To Contribute* please:
+Eve-Mail 'Ashilta' in game
+Send 'Ashilta' a message on Reddit
+Find 'Ashilta' in the Tweetfleet Slack
 
-**Owner:** 
+**This project:** 
 
-[EVEMonDevTeam](https://github.com/evemondevteam/) (GitHub)
-
-[EVEMonDevTeam](https://bitbucket.org/EVEMonDevTeam) (Bitbucket)
-
-**Website:** [EVEMon](https://evemondevteam.github.io/evemon/)
-
-**Documentation:** [EVEMon Docs](https://evemon.readthedocs.org/)
-
-**Feedback & Ideas:** [On UserVoice](https://evemon.uservoice.com/)
+[EVEMonDevTeam](https://github.com/evemondevteam/)
 
 **Admins:**
 
-[JimiC](https://github.com/JimiC) (GitHub)
-
-[Jimi C](https://bitbucket.org/Desmont_McCallock) (Bitbucket)
+[Ashilta](https://github.com/Ashilta)
