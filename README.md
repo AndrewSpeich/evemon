@@ -9,7 +9,7 @@
 
 A lightweight, easy-to-use standalone Windows application designed to assist you in keeping track of your EVE Online character progression.
 
-For complete info on *How To Contribute* please:
+For complete info on *How To Contribute* please:  
 *Eve-Mail 'Ashilta' in game  
 *Send 'Ashilta' a message on Reddit  
 *Find 'Ashilta' in the Tweetfleet Slack  
